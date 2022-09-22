@@ -1,5 +1,5 @@
 streamlit
-pandas
+pandas==3.0.7
 xlrd==1.2.0
 plotly==4.14.3
 Pillow==8.1.2
